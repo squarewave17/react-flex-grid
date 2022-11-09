@@ -1,0 +1,16 @@
+.display-container {
+  border: 1px solid var(--color-border-default);
+  padding: 40px;
+}
+
+.item {
+  border: 1px dashed var(--color-border-default);
+  padding: 30px;
+}
+
+.settings {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 20px;
+}
